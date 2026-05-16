@@ -1,0 +1,7 @@
+interface:
+  display_name: "河合隼雄.skill"
+  short_description: "河合隼雄式心理学视角与自我理解辅助"
+  default_prompt: "请用河合隼雄式视角帮我理解这个反复出现的内在模式。"
+
+policy:
+  allow_implicit_invocation: true
