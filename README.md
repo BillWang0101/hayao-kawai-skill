@@ -73,6 +73,14 @@ hayao-kawai-perspective
 
 其他支持 skill 的客户端，可按各自的 skills 目录规则安装。
 
+## 与 Navigator 联动
+
+如果要把河合式自我理解与约会中的外部证据、现实风险和下一步行动结合，可配合 [Navigator](https://github.com/Evostructs/navigator-skill) 使用。两个 Skill 各自独立：河合 Skill 负责整理故事、情结、投射与反复模式，Navigator 负责区分外部事实与脑补，并给出可验证的下一步和止损线。
+
+```text
+同时使用 $navigator 和 $hayao-kawai-perspective：先分析我的内在关系模式，再核对这段聊天的外部证据，最后给出下一步和止损线。
+```
+
 ## 使用示例
 
 示例：
